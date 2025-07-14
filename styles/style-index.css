@@ -1,0 +1,24 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.recipes {
+    width: 400px;
+    background: beige;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    background-color: chocolate;
+    color: cornsilk;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px 80px 40px 80px;
+}
+
+.lists {
+    margin: 16px 40px;
+}
